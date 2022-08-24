@@ -1,0 +1,25 @@
+package javapractice;
+
+import java.util.Scanner;
+
+public class StringPractice3 {
+
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("input your name : ");
+		String name = sc.next();
+		if(name.startsWith("sha")) {
+			System.out.println(" shailendra");
+		}else if(name.startsWith("san")) {
+			System.out.println("sandhya");
+		}
+
+		else {
+			System.out.println("you are not a member");
+		}
+ 
+			
+
+	}
+
+}

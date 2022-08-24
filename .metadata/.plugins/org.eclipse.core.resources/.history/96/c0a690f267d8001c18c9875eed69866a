@@ -1,0 +1,15 @@
+package javapractice;
+import java.util.Scanner;
+public class ForloopPractice1 {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("Enter your first name, last name and age");
+		String str=sc.next();
+		String[] info=str.split(",");
+	
+			
+
+	}
+
+}

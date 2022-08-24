@@ -1,0 +1,18 @@
+package javapractice;
+
+public class Practice32 {
+
+	public static void main(String[] args) {
+		// compare two numbers
+int a = 25;
+int b = 39;
+if(a==b) {
+	System.out.println("a and b is equal");
+}else {
+	System.out.println(a+" != "+b);
+}
+
+		
+	}
+
+}

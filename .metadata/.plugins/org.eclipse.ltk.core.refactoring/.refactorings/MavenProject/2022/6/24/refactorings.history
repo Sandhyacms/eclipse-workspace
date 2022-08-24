@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.training.automation&apos; to &apos;MavenProject/src/test/java&apos;&#x0D;&#x0A;- Original project: &apos;MavenProject&apos;&#x0D;&#x0A;- Destination element: &apos;MavenProject/src/test/java&apos;&#x0D;&#x0A;- Original element: &apos;MavenProject/src/main/java/com.training.automation&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.training.automation" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1654443744692" version="1.0"/>
+</session>

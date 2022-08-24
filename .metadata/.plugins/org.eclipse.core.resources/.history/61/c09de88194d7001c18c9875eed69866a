@@ -1,0 +1,15 @@
+package javapractice;
+import java.util.Scanner;
+public class StringPractice1 {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.print("enter your full name : ");
+		String  fullname=sc.next();
+		String[] fullnamelist=fullname.split(" ");
+		System.out.println("first name is: "+fullnamelist[0]);
+		System.out.println("last name is: "+fullnamelist[1]);
+
+	}
+
+}

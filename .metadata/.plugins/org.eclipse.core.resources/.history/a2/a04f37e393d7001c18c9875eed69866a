@@ -1,0 +1,13 @@
+package javapractice;
+
+public class StringPractice1 {
+
+	public static void main(String[] args) {
+		String  fullname="Sandhya Kumari";
+		String[] fullnamelist=fullname.split(" ");
+		System.out.println("first name is: "+fullnamelist[0]);
+		System.out.println("last name is: "+fullnamelist[1]);
+
+	}
+
+}

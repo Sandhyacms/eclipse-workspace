@@ -1,0 +1,22 @@
+package javapractice;
+import java.util.Scanner;
+public class Ifelsepractice1 {
+	
+
+	
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.println("enter your marks : ");
+		int marks=sc.nextInt();
+		if(marks>45) {
+			System.out.println("pass");
+		}
+		else
+			System.out.println("fail");
+		
+
+	}
+
+	
+
+}

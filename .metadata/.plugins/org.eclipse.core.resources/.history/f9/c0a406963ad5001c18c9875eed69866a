@@ -1,0 +1,13 @@
+package javapractice;
+
+public class Scannerclass {
+
+	public static void main(String[] args) {
+		int a=10;
+		double b=55.66;
+		float c= 5;
+		boolean d= true;
+ System.out.println("integer is"+a);
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.tekarch.salesforce;
+
+import org.testng.annotations.Test;
+
+public class SdfcLogin extends SdfcLogin_implement {
+  @Test
+  public void f() {
+	//  browse_sfdc();
+  }
+  
+  @Test
+  public void Login_Error_Message_1() {
+	  Launch_app_withoutpassword();	  
+  }
+  
+}

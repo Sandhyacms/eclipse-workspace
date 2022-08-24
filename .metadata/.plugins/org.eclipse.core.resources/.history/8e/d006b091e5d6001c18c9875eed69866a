@@ -1,0 +1,23 @@
+package javapractice;
+
+import java.util.Scanner;
+
+public class IfElsePractice3 {
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.print("enter your last name : ");
+		String firstname=sc.next();
+		String lastname=sc.next();		
+		if(lastname=="singh") {
+			System.out.println("you are a rajput");
+			
+		}
+		else {
+			
+		System.out.println("you are general class");
+		}
+
+	}
+
+}

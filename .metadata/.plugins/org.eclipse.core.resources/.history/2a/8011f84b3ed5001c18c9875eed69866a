@@ -1,0 +1,15 @@
+package javapractice;
+import java.util.Scanner;
+public class Scannerclass1 {
+
+	public static void main(String[] args) {
+		Scanner sc=new Scanner(System.in);
+		System.out.println("enter Name, age, and gender of the person");
+		String name=sc.next();
+		int age=sc.nextInt();
+		String sex=sc.next();
+		System.out.println("Name is " + name  + "age is " + age + "Sex is" + sex);
+
+	}
+
+}

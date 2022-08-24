@@ -1,0 +1,15 @@
+package javapractice;
+
+public class DoWhile {
+
+	public static void main(String[] args) {
+		int[] a = { 1, 5, 3, 6, 9, 8, 6 };
+		int i = 0;
+		do {
+			System.out.println("Seq " + i + " value " + a[i] + " = " + (a[i] + 7));
+			i++;
+
+		} while (i < a.length);
+
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;Test_appium&apos; to &apos;First_AndroidappiumProgram/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;First_AndroidAppiumProgram_old&apos;&#x0D;&#x0A;- Destination element: &apos;First_AndroidappiumProgram/src/main/java&apos;&#x0D;&#x0A;- Original element: &apos;First_AndroidAppiumProgram_old/src/Test_appium&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=First_AndroidappiumProgram/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/" element1="/src&lt;Test_appium" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1658937915992" version="1.0"/>
+</session>

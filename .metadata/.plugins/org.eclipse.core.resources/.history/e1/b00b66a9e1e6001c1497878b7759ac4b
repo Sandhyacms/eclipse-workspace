@@ -1,0 +1,10 @@
+package hackathon;
+
+public class Q01 {
+
+	public static void main(String[] args) {
+boolean a=1;
+System.out.println(a);
+	}
+
+}

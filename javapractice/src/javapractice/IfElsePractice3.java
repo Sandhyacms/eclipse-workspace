@@ -1,0 +1,24 @@
+package javapractice;
+
+import java.util.Scanner;
+
+public class IfElsePractice3 {
+
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.print("enter your first name : ");
+		String firstname=sc.next();
+		System.out.print("enter your last name : ");		
+		String lastname=sc.next();		
+		if(lastname.equalsIgnoreCase("singh")) {
+			System.out.println(firstname+" " +  lastname  +", you are a rajput");
+			
+		}
+		else {
+			
+		System.out.println( firstname+" " +  lastname  +", you are general class");
+		}
+
+	}
+
+}
